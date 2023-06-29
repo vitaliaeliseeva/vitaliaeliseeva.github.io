@@ -82,12 +82,12 @@ analytics:
 author:
 #  name             : "Your Sidebar Name"
   avatar           : "profile.png"
-  bio              : "PhD "
-  location         : "Location"
+  bio              : "PhD candidate at Paris Schoold of Economics"
+#  location         : "Paris"
   employer         :
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+#  googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            : vitalia.eliseeva [at] gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
