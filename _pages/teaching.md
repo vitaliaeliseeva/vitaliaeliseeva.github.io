@@ -9,4 +9,10 @@ author_profile: true
 
 2023
 
- * Influence of post-WW2 changes in sex ratios in Russia on modern-day female Labor Force Participation
+ * TA in Introduction to R, second year of B.A. in Economics
+
+### Higher School of Economics
+
+2019, 2018
+
+  * TA in Social Economic Statistics, second year of B.A. in Economics
