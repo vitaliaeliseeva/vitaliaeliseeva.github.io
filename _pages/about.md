@@ -14,4 +14,4 @@ After doing Analysis and Policy in Economics masters at PSE in Paris, I worked a
 
 My research interests lie in the intersection of political economy and historical economy, with a specialisation on the history of the Soviet Union.
 
-I contribute to the community by being a mentor in Women in Economics initiative, and volunteering at Konexio to help job seekers from underprivileged backgrounds get digital skills. I am passionate about learning languages and photography.
+I contribute to the community by being a mentor in Women in Economics initiative, and volunteering at Konexio to help job seekers from underprivileged backgrounds get digital skills.
