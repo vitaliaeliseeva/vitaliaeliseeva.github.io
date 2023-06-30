@@ -9,10 +9,26 @@ author_profile: true
 
 2023
 
- * TA in Introduction to R, second year of B.A. in Economics
+  * TA in Introduction to R, second year of B.A. in Economics
 
 ### Higher School of Economics
 
 2019, 2018
 
   * TA in Social Economic Statistics, second year of B.A. in Economics
+  * TA in Econometrics, second year of B.A. in Economics
+
+2018
+
+  * TA in Macroeconomics, second year of B.A. in Economics
+
+
+### "I Love Economics" Summer School
+
+2021, 2020
+
+  * Guest Lecturer in Data Analysis and Data Visualisation, high-school students
+
+2019, 2018
+
+  * TA in Data Analysis and Data Visualisation, high-school students
