@@ -10,3 +10,6 @@ author_profile: true
 ![Turkey_photos](https://vitaliiaeliseeva.github.io/images/Collage_Turkey.png) 
 
   
+![Turkey_photos](https://vitaliiaeliseeva.github.io/images/Collage_Paris2.png) 
+
+  
