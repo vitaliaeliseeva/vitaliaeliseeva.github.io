@@ -11,4 +11,4 @@ author_profile: true
 
 ### Policy writing
 
- * University Admission Practices – Russia, Matching in Practice Country Profile 31 <a href="https://www.matching-in-practice.eu/university-admission-practices-russia/"> read </a>
+ * University Admission Practices – Russia, Matching in Practice Country Profile 31 (<a href="https://www.matching-in-practice.eu/university-admission-practices-russia/"> read </a>)
