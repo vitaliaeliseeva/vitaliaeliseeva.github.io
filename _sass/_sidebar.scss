@@ -83,8 +83,8 @@
   }
 
   img {
-   min-width: 75em;
-    max-width: 275px;
+   min-width: 55em;
+    max-width: 175px;
    
 
     @include breakpoint($large) {
