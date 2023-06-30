@@ -83,6 +83,7 @@ author:
 #  name             : "Your Sidebar Name"
   avatar           : "profile.png"
   bio              : "PhD candidate at Paris School of Economics"
+  bio              : "email"
 #  location         : "Paris"
   employer         :
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
