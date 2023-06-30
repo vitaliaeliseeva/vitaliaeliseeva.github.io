@@ -60,7 +60,7 @@
     z-index: 10;
   }
 
-  @include breakpoint($x-large) {
+  @include breakpoint($large) {
     width: $right-sidebar-width;
   }
 }
