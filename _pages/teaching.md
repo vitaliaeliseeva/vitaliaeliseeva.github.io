@@ -32,3 +32,6 @@ author_profile: true
 2019, 2018
 
   * TA in Data Analysis and Data Visualisation, high-school students
+
+
+I also contribute to the community by being a mentor in Women in Economics initiative, and volunteering at Konexio to help job seekers from underprivileged backgrounds get digital skills.
