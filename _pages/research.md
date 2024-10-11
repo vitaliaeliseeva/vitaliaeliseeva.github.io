@@ -7,7 +7,7 @@ author_profile: true
 
 ### Work in progress
 
- * Influence of post-WW2 changes in sex ratios in Russia on modern-day female Labor Force Participation
+ * Failing to forge the New Soviet Woman: Long-term effect of WW2-induced sex ratios on family formation
 
 ### Policy writing
 
