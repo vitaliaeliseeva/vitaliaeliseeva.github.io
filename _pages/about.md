@@ -14,6 +14,6 @@ I am an Economics PhD candidate at the Paris School of Economics. I am working u
 
 I am visiting Scott Gehlbach at the University of Chicago’s Harris School of Public Policy during 2024-25 academic year.
 
-My research interests lie in the intersection of political economy and economic history, with a particular interest towards the history of the Soviet Union, as well as propaganda and autoritarian regimes.
+My research interests lie in the intersection of political economy and economic history, with a particular interest towards the history of the Soviet Union, as well as economics of culture and propaganda.
 
 CV: [here](https://vitaliiaeliseeva.github.io/My_CV_20241011.pdf){:target="_blank"}
