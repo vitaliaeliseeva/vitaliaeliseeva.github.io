@@ -5,6 +5,13 @@ permalink: /teaching/
 author_profile: true
 ---
 
+
+### Université Paris 1 Panthéon-Sorbonne
+
+2024
+
+  * TA in Introduction to Econometrics, third year of B.A. in Economics
+
 ### Université Paris Sciences et Lettres
 
 2023
