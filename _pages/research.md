@@ -9,7 +9,7 @@ author_profile: true
 
  * Failing to forge the New Soviet Woman: Long-term effect of WW2-induced sex ratios on family formation
    
-   Draft available upon request
+   *Draft available upon request*
    <details>
    <summary>Abstract</summary>
    <br>
