@@ -27,3 +27,13 @@ author_profile: true
 ### Policy writing
 
  * University Admission Practices – Russia, Matching in Practice Country Profile 31 (<a href="https://www.matching-in-practice.eu/university-admission-practices-russia/"> read </a>)
+
+   <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-MCK3K2357M"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-MCK3K2357M');
+</script>
