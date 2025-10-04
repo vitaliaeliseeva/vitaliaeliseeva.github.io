@@ -36,6 +36,16 @@ author_profile: true
 
   * Guest Lecturer in Data Analysis and Data Visualisation, high-school students
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-MCK3K2357M"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-MCK3K2357M');
+</script>
+
 2019, 2018
 
   * TA in Data Analysis and Data Visualisation, high-school students
