@@ -16,4 +16,4 @@ I was visiting Scott Gehlbach at the University of Chicago’s Harris School of 
 
 My research interests lie in the intersection of political economy and economic history, with a particular interest towards the history of the Soviet Union, as well as economics of culture and propaganda.
 
-CV: [here](https://vitaliaeliseeva.github.io/ELISEEVA_CV_20250411.pdf){:target="_blank"}
+CV: [here](https://vitaliaeliseeva.github.io/CV_20251004.pdf){:target="_blank"}
