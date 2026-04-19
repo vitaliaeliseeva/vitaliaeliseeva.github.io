@@ -30,5 +30,4 @@ author_profile: true
 
 
 
-  gtag('config', 'G-MCK3K2357M');
 </script>
