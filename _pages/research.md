@@ -18,12 +18,15 @@ author_profile: true
    </blockquote>
    </details>
 
-### Work in progress 
 
- * The Market for Stories: How Market Consolidation Shaped Narratives in US History Textbooks, *with Pedro Aldighieri*
+ * History written by the Loser: Centralization of Confederate Narratives in Southern History Textbooks, *with Pedro Aldighieri*
 
+   *Draft available upon request*
+   <details>
+   <summary>Abstract</summary>
+   <br>
+   <blockquote style="text-align: justify;">
+     This paper examines how Southern states exploited centralization of textbook adoption lists to influence narratives in American history textbooks between 1870 and 1930. We employ large language models to  measure pro-Southern slant on a novel dataset of 405 editions of middle-school history textbooks. Leveraging variation in the timing of state adoption laws, we find that state-level consolidation led to 21 p.p. more pro-Confederate coverage of the Civil War. This reflected in more favorable portrayals of the Old South and Confederate apologetics in war descriptions. We show that adoption laws reshaped the publishing industry by enabling new Southern publishers to enter the market and pushing big established Northern publishers to launch new titles with more pro-Southern content. Exploiting variation in the timing of adoption laws, we show that Southern men from cohorts exposed to these textbooks were more likely to marry South-born women and to support KKK and lynching.
+   </blockquote>
+   </details>
   
-
-### Policy writing
-
- * University Admission Practices – Russia, Matching in Practice Country Profile 31 (<a href="https://www.matching-in-practice.eu/university-admission-practices-russia/"> read </a>)
