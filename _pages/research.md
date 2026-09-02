@@ -7,9 +7,8 @@ author_profile: true
 
 ### Working papers
 
- * History written by the Loser: Centralization of Confederate Narratives in Southern History Textbooks, *with Pedro Aldighieri*
+ * History written by the Loser: Centralization of Confederate Narratives in Southern History Textbooks, *with Pedro Aldighieri*, *(draft available upon request)*
 
-   *Draft available upon request*
    <details>
    <summary>Abstract</summary>
    <br>
@@ -18,9 +17,8 @@ author_profile: true
    </blockquote>
    </details>
 
- * Failing to forge the New Soviet Woman: Long-term effect of WW2-induced sex ratios on family formation
+ * Failing to forge the New Soviet Woman: Long-term effect of WW2-induced sex ratios on family formation, *(draft available upon request)*
    
-   *Draft available upon request*
    <details>
    <summary>Abstract</summary>
    <br>
