@@ -8,7 +8,7 @@ author_profile: false
   .archive {
     float: none;
     width: 100%;
-    max-width: 46rem;
+    max-width: 38rem;
     margin: 0 auto;
     padding-left: 0;
     padding-right: 0;
