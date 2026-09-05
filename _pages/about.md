@@ -8,6 +8,16 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+  .author__avatar img {
+    max-width: 200px;
+    width: 200px;
+  }
+  .author__avatar {
+    width: auto;
+  }
+</style>
+
 I am an Economics PhD candidate at the Paris School of Economics supervised by Ekaterina Zhuravskaya and Hillel Rapoport. I work on economic history and political economy. <strong>I am on the 2026–27 economics job market.</strong>
 
 My job market paper studies who captures the history curriculum in schools under centralization of textbook choice. More broadly, I study how social norms pass between generations and how states try to shape them.
