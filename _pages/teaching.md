@@ -67,7 +67,7 @@ author_profile: false
 <div style="margin-bottom:1.6rem; line-height:1.65;">
   <div style="display:flex; align-items:baseline;">
     <div style="flex:0 0 6.8em; text-align:right; padding-right:.9em; color:#555; font-variant-numeric:tabular-nums;"></div>
-    <div style="flex:1; border-left:1px solid #b8b8b8; padding-left:.9em;"><span style="font-weight:700; font-style:italic;">Higher School of Economics</span></div>
+    <div style="flex:1; border-left:1px solid #b8b8b8; padding-left:.9em;"><span style="font-weight:700;">Higher School of Economics</span></div>
   </div>
   <div style="display:flex; align-items:baseline;">
     <div style="flex:0 0 6.8em; text-align:right; padding-right:.9em; color:#555; font-variant-numeric:tabular-nums;">2019, 2018</div>
