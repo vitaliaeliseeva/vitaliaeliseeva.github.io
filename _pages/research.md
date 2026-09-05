@@ -13,8 +13,9 @@ author_profile: true
   <p class="paper-title">
     History written by the Loser: Centralization of Confederate Narratives in Southern History Textbooks
   </p>
-  <p class="paper-meta">
-    <em>(with Pedro Aldighieri)</em> &nbsp;<span class="paper-status">(job market paper)</span>
+  
+  <p style="margin:0 0 .8em 0;">
+    <em>(with Pedro Aldighieri)</em> &nbsp;<strong>(job market paper)</strong>
   </p>
 
 
