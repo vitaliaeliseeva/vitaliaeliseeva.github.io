@@ -6,7 +6,7 @@ author_profile: true
 ---
 
  
-<h2 style="font-size:1.5em; font-weight:600; letter-spacing:.01em; margin:1.5rem 0 1.6rem 0; padding:.45em 0; border-top:1px solid #d8d8d8; border-bottom:1px solid #d8d8d8;">Working papers</h2>
+<h2 style="font-size:1.5em; font-weight:600; letter-spacing:.01em; margin:1.5rem 0 1.6rem 0; padding:.45em 0; border-top:1px solid #d8d8d8; border-bottom:1px solid #d8d8d8;">Job Market Paper</h2>
  
 <div style="margin-bottom:2rem;">
 
@@ -17,7 +17,7 @@ author_profile: true
   </p>
   
   <p style="margin:0 0 .8em 0;">
-    <em>(with Pedro Aldighieri)</em> &nbsp;<strong>(job market paper)</strong>
+    <em>(with Pedro Aldighieri)</em> 
   </p>
 
 
@@ -32,6 +32,9 @@ author_profile: true
   </ul>
 </div>
 <hr class="paper-divider">
+
+<h2 style="font-size:1.5em; font-weight:600; letter-spacing:.01em; margin:1.5rem 0 1.6rem 0; padding:.45em 0; border-top:1px solid #d8d8d8; border-bottom:1px solid #d8d8d8;">Working papers</h2>
+
 <div class="paper">
   <p class="paper-title">
     <a href="https://www.dropbox.com/scl/fi/n8py72n762g3lbjfw3ss0/eliseeva_male_scarcity.pdf?rlkey=i5as07ss66kseutfkgyqmzkke&amp;raw=1" target="_blank" rel="noopener">
