@@ -16,9 +16,10 @@ redirect_from:
     .sidebar { width: 300px; }
     .page, .archive {
       float: none;
-      width: 100%;
-      margin-left: 0;
-      padding-left: 340px;
+      width: auto;
+      margin-left: 340px;
+      margin-right: 0;
+      padding-left: 0;
       padding-right: 0;
     }
   }
