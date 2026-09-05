@@ -5,8 +5,10 @@ permalink: /research/
 author_profile: true
 ---
 
-
-### Working papers
+ 
+<h2 style="font-size:1.5em; font-weight:600; letter-spacing:.01em; margin:1.5rem 0 1.6rem 0; padding:.45em 0; border-top:1px solid #d8d8d8; border-bottom:1px solid #d8d8d8;">Working papers</h2>
+ 
+<div style="margin-bottom:2rem;">
 
 
 <div class="paper">
