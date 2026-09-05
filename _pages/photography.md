@@ -9,10 +9,17 @@ author_profile: false
   .archive {
     float: none;
     width: 100%;
-    max-width: 46rem;
+    max-width: 66rem;
     margin: 0 auto;
     padding-left: 0;
     padding-right: 0;
+  }
+  .archive img,
+  .page__content img {
+    max-width: 100%;
+    width: 100%;
+    display: block;
+    margin: 0 auto 1.5rem;
   }
 </style>
 
