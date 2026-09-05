@@ -14,13 +14,21 @@ redirect_from:
 
   @media (min-width: 925px) {
     .sidebar { width: 300px; }
-    .page, .archive {
-      float: none;
-      width: auto;
-      margin-left: 340px;
-      margin-right: 0;
-      padding-left: 0;
-      padding-right: 0;
+    .page {
+      float: none !important;
+      width: auto !important;
+      margin-left: 340px !important;
+      margin-right: 0 !important;
+      padding-left: 0 !important;
+      padding-right: 0 !important;
+    }
+    .page .page__inner-wrap,
+    .page .page__content,
+    .page .page__meta,
+    .page .page__share {
+      float: none !important;
+      clear: none !important;
+      width: 100% !important;
     }
   }
 </style>
