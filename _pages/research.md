@@ -32,7 +32,7 @@ author_profile: true
   </p>
 
   <ul>
-    <li><strong>Conference presentations:</strong> WEast Workshop, ASREC conference and 2026 Summer Workshop in the Economic History, Historical Political Economy of Eurasia</li>
+    <li><strong>Conference presentations:</strong> WEast Workshop, ASREC conference and 2026 Summer Workshop in the Economic History and Historical Political Economy of Eurasia</li>
    <li><strong>Invited talks:</strong> UChicago Demography seminar, Northwestern Econ
 history lunch</li>
    <li><strong>Internal talks:</strong> PSE GPET seminar, PSE Applied Economics Lunch seminar</li>
