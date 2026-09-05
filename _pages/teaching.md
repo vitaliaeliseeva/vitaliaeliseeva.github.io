@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 
-<h2 style="font-size:1.5em; font-weight:600; letter-spacing:.01em; margin:1.5rem 0 1.6rem 0; padding:.45em 0; border-top:1px solid #d8d8d8; border-bottom:1px solid #d8d8d8;">Teaching experience</h2>
 <div style="margin-bottom:1.6rem; line-height:1.65;">
   <div style="display:flex; align-items:baseline;">
     <div style="flex:0 0 6.8em; text-align:right; padding-right:.9em; color:#555; font-variant-numeric:tabular-nums;"></div>
