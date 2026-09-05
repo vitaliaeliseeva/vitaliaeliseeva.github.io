@@ -10,8 +10,8 @@ redirect_from:
 
 <style>
   .author__avatar img {
-    max-width: 200px;
-    width: 200px;
+    max-width: 300px;
+    width: 300px;
   }
   .author__avatar {
     width: auto;
