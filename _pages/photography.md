@@ -4,6 +4,19 @@ title: "Photography"
 permalink: /photography/
 author_profile: false
 ---
+
+<style>
+  .archive {
+    float: none;
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 0;
+    padding-right: 0;
+  }
+</style>
+
+
 ![Turkey_photos](https://vitaliaeliseeva.github.io/images/Collage_Turkey2.png) 
 
 ![Paris2_photos](https://vitaliaeliseeva.github.io/images/Collage_Paris2.png) 
