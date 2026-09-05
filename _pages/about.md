@@ -9,12 +9,18 @@ redirect_from:
 ---
 
 <style>
-  .author__avatar img {
-    max-width: 300px;
-    width: 300px;
-  }
-  .author__avatar {
-    width: auto;
+  .author__avatar img { max-width: 300px; width: 300px; }
+  .author__avatar { width: auto; }
+
+  @media (min-width: 925px) {
+    .sidebar { width: 300px; }
+    .page, .archive {
+      float: none;
+      width: 100%;
+      margin-left: 0;
+      padding-left: 340px;
+      padding-right: 0;
+    }
   }
 </style>
 
