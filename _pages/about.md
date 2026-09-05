@@ -10,7 +10,7 @@ redirect_from:
 
 I am an Economics PhD candidate at the Paris School of Economics. I am working under the supervision of Ekaterina Zhuravskaya and Hillel Rapoport.
 
-<p style="font-size:1.15em;"><strong>I am on the 2026–27 economics job market.</strong></p>
+<p style="font-size:0.9em;"><strong>I am on the 2026–27 economics job market.</strong></p>
 
 <!-- After doing Analysis and Policy in Economics masters at PSE in Paris, I worked as a research analyst in the Office of the Chief Economist at the European Bank for Reconstruction and Development in London.  -->
 
