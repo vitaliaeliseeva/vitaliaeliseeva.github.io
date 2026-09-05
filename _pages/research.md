@@ -57,14 +57,14 @@ author_profile: true
     <li><strong>Invited talks:</strong> UChicago Demography seminar, Northwestern Econ history lunch</li>
     <li><strong>Internal talks:</strong> PSE GPET seminar, PSE Applied Economics Lunch seminar</li>
   </ul>
-</div>
+
  
 <h2 style="font-size:1.5em; font-weight:600; letter-spacing:.01em; margin:1.5rem 0 1.6rem 0; padding:.45em 0; border-top:1px solid #d8d8d8; border-bottom:1px solid #d8d8d8;">Work in progress</h2>
 
 <div style="margin-bottom:2rem;">
 
   
-  <p style="font-size:1.25em; line-height:1.3; font-weight:400; margin:0 0 .35em 0;">
+  <p style="font-size:1em; line-height:1.3; font-weight:400; margin:0 0 .35em 0;">
     The Political Effects of Russian TV Propaganda in the Baltics
   </p>
 
