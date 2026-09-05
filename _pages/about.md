@@ -12,7 +12,7 @@ I am an Economics PhD candidate at the Paris School of Economics supervised by E
 
 My job market paper studies who captures the history curriculum in schools under centralization of textbook choice. More broadly, I study how social norms pass between generations and how states try to shape them.
 
-In 2024-25, I was visiting Scott Gehlbach at the University of Chicago’s Harris School of Public Policy. Prior to the PhD, I worked as a research analyst in the Office of the Chief Economist at the European Bank for Reconstruction and Development in London.
+In 2024-25, I visited Scott Gehlbach at the University of Chicago’s Harris School of Public Policy. Prior to the PhD, I worked as a research analyst in the Office of the Chief Economist at the European Bank for Reconstruction and Development in London.
 
 
 My CV is [here](https://vitaliaeliseeva.github.io/ELISEEVA_CV_20260427.pdf){:target="_blank"}
