@@ -5,6 +5,17 @@ permalink: /research/
 author_profile: false
 ---
 
+<style>
+  .archive {
+    float: none;
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 0;
+    padding-right: 0;
+  }
+</style>
+
  
 <h2 style="font-size:1.5em; font-weight:600; letter-spacing:.01em; margin:1.5rem 0 1.6rem 0; padding:.45em 0; border-top:1px solid #d8d8d8; border-bottom:1px solid #d8d8d8;">Job Market Paper</h2>
  
