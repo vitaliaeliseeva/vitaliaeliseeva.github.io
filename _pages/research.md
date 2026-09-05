@@ -5,10 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-.paper + .paper {
-  border-top: 1px solid #e5e5e5;
-  padding-top: 2.75rem;
-}
+
 
 ### Working papers
 
@@ -35,7 +32,7 @@ author_profile: true
 </div>
    
 
-#######
+<hr class="paper-divider">
 
  <div class="paper">
 
