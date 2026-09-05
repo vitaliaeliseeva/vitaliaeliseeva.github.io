@@ -11,8 +11,8 @@ author_profile: true
 <div style="margin-bottom:2rem;">
 
 
-<div class="paper">
-  <p class="paper-title">
+
+  <p style="font-size:1.35em; line-height:1.3; font-weight:700; margin:0 0 .35em 0;">
     History written by the Loser: Centralization of Confederate Narratives in Southern History Textbooks
   </p>
   
