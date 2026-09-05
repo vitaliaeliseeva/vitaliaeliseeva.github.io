@@ -8,17 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am an Economics PhD candidate at the Paris School of Economics. I am working under the supervision of Ekaterina Zhuravskaya and Hillel Rapoport.
+I am an Economics PhD candidate at the Paris School of Economics, under the supervision of Ekaterina Zhuravskaya and Hillel Rapoport. I work on economic history and political economy. <p style="font-size:0.9em;"><strong>I am on the 2026–27 economics job market.</strong></p>
 
-<p style="font-size:0.9em;"><strong>I am on the 2026–27 economics job market.</strong></p>
+My job market paper studies who captures the history curriculum in schools under centralization of textbook choice. More broadly, I study how social norms pass between generations and how states try to shape them.
 
-<!-- After doing Analysis and Policy in Economics masters at PSE in Paris, I worked as a research analyst in the Office of the Chief Economist at the European Bank for Reconstruction and Development in London.  -->
+In 2024-25, I was visiting Scott Gehlbach at the University of Chicago’s Harris School of Public Policy. Prior to the PhD, I worked as a research analyst in the Office of the Chief Economist at the European Bank for Reconstruction and Development in London.
 
-I was visiting Scott Gehlbach at the University of Chicago’s Harris School of Public Policy during 2024-25 academic year.
 
-My research interests lie in the intersection of political economy and economic history, with a particular interest towards the history of the Soviet Union, as well as economics of culture and propaganda.
+My CV is [here](https://vitaliaeliseeva.github.io/ELISEEVA_CV_20260427.pdf){:target="_blank"}
 
-CV: [here](https://vitaliaeliseeva.github.io/ELISEEVA_CV_20260427.pdf){:target="_blank"}
+You can reach me at vitalia.eliseeva@gmail.com
 
 
 <!-- Google tag (gtag.js) -->
