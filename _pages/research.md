@@ -56,3 +56,24 @@ author_profile: true
   </ul>
 </div>
  
+<h2 style="font-size:1.5em; font-weight:600; letter-spacing:.01em; margin:1.5rem 0 1.6rem 0; padding:.45em 0; border-top:1px solid #d8d8d8; border-bottom:1px solid #d8d8d8;">Work in progress</h2>
+
+<div style="margin-bottom:2rem;">
+
+
+<div class="paper">
+  <p class="paper-title">
+    The Political Effects of Russian TV Propaganda in the Baltics
+  </p>
+  
+  <p style="margin:0 0 .8em 0;">
+    <em>(with Gisli Gylfason and Ekaterina Zhuravskaya)</em> 
+  </p>
+
+
+ 
+  <p class="paper-abstract">
+    Using the 2022 ban on Russian state television in Estonia and Latvia,
+this project studies how losing access to propaganda affects voting
+behaviour.
+  </p>
