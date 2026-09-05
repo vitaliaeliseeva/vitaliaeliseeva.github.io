@@ -2,7 +2,7 @@
 layout: archive
 title: "Data"
 permalink: /data/
-author_profile: true
+author_profile: false
 ---
 
 * 2019 students admitted to Russian universities
