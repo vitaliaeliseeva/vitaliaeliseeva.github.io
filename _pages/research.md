@@ -17,7 +17,12 @@ author_profile: true
    </blockquote>
    </details>
 
- * Failing to forge the New Soviet Woman: Long-term effect of WW2-induced male scarcity on family formation, *(draft available upon request)*
+ * <p>
+  <a href="https://www.dropbox.com/scl/fi/n8py72n762g3lbjfw3ss0/eliseeva_male_scarcity.pdf?rlkey=i5as07ss66kseutfkgyqmzkke&amp;raw=1"
+     target="_blank" rel="noopener">
+    Failing to forge the New Soviet Woman: Long-term effect of WW2-induced male scarcity on family formation
+  </a><br>
+</p>
    
    <details>
    <summary>Abstract</summary>
