@@ -17,13 +17,13 @@ author_profile: false
 </style>
 
 
-![Turkey_photos](https://vitaliaeliseeva.github.io/images/Collage_Turkey2.png) 
+![Turkey_photos](https://vitaliaeliseeva.github.io/images/collage_georgia.png){: style="max-width:80%"}
 
-![Paris2_photos](https://vitaliaeliseeva.github.io/images/Collage_Paris2.png) 
+![Paris2_photos](https://vitaliaeliseeva.github.io/images/collage_india.png){: style="max-width:80%"}
 
-![SriLanka_photos](https://vitaliaeliseeva.github.io/images/Collage_SriLanka2.png) 
+![SriLanka_photos](https://vitaliaeliseeva.github.io/images/collage_turkey.png){: style="max-width:80%"}
 
-![London_photos](https://vitaliaeliseeva.github.io/images/Collage_London2.png) 
+![London_photos](https://vitaliaeliseeva.github.io/images/collage_sri_lanka.png){: style="max-width:80%"}
 
 
 <!-- Google tag (gtag.js) -->
