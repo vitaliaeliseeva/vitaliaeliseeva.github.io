@@ -2,7 +2,7 @@
 layout: archive
 title: "Photography"
 permalink: /photography/
-author_profile: true
+author_profile: false
 ---
 ![Turkey_photos](https://vitaliaeliseeva.github.io/images/Collage_Turkey2.png) 
 
