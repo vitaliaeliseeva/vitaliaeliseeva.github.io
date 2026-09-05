@@ -15,7 +15,8 @@ My job market paper studies who captures the history curriculum in schools under
 In 2024-25, I visited Scott Gehlbach at the University of Chicago’s Harris School of Public Policy. Prior to the PhD, I worked as a research analyst in the Office of the Chief Economist at the European Bank for Reconstruction and Development in London.
 
 
-My CV is [here](https://vitaliaeliseeva.github.io/ELISEEVA_CV_20260427.pdf){:target="_blank"}
+<p>My CV is <a href="https://www.dropbox.com/scl/fi/i5w8up8i0jt5tlkbuk3dz/eliseeva_cv.pdf?rlkey=59qj2vek6c3xi590z0o8nwnqu&amp;raw=1" target="_blank" rel="noopener">here</a>.</p>
+
 
 You can reach me at [vitalia.eliseeva@gmail.com](mailto:vitalia.eliseeva@gmail.com)
 
