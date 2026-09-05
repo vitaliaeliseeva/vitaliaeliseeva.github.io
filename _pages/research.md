@@ -11,13 +11,14 @@ author_profile: true
 
 <div class="paper">
   <p class="paper-title">
-    <a href="#" target="_blank" rel="noopener">
-      History written by the Loser: Centralization of Confederate Narratives in Southern History Textbooks
-    </a>
+    History written by the Loser: Centralization of Confederate Narratives in Southern History Textbooks
   </p>
   <p class="paper-meta">
     <em>(with Pedro Aldighieri)</em> &nbsp;<span class="paper-status">(job market paper)</span>
   </p>
+
+
+  
   <p class="paper-abstract">
     This paper examines how Southern states exploited centralization of textbook adoption lists to influence narratives in American history textbooks between 1870 and 1930. We employ large language models to measure pro-Southern slant on a novel dataset of 405 editions of middle-school history textbooks. Leveraging variation in the timing of state adoption laws, we find that state-level consolidation led to 21 p.p. more pro-Confederate coverage of the Civil War. This reflected in more favorable portrayals of the Old South and Confederate apologetics in war descriptions. We show that adoption laws reshaped the publishing industry by enabling new Southern publishers to enter the market and pushing big established Northern publishers to launch new titles with more pro-Southern content. Exploiting variation in the timing of adoption laws, we show that Southern men from cohorts exposed to these textbooks were more likely to marry South-born women and to support KKK and lynching.
   </p>
