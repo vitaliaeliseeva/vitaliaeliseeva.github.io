@@ -7,15 +7,30 @@ author_profile: true
 
 ### Working papers
 
- * History written by the Loser: Centralization of Confederate Narratives in Southern History Textbooks, *with Pedro Aldighieri*, *(draft available upon request)*
+ <div class="paper">
 
-   <details>
-   <summary>Abstract</summary>
-   <br>
-   <blockquote style="text-align: justify;">
-     This paper examines how Southern states exploited centralization of textbook adoption lists to influence narratives in American history textbooks between 1870 and 1930. We employ large language models to  measure pro-Southern slant on a novel dataset of 405 editions of middle-school history textbooks. Leveraging variation in the timing of state adoption laws, we find that state-level consolidation led to 21 p.p. more pro-Confederate coverage of the Civil War. This reflected in more favorable portrayals of the Old South and Confederate apologetics in war descriptions. We show that adoption laws reshaped the publishing industry by enabling new Southern publishers to enter the market and pushing big established Northern publishers to launch new titles with more pro-Southern content. Exploiting variation in the timing of adoption laws, we show that Southern men from cohorts exposed to these textbooks were more likely to marry South-born women and to support KKK and lynching.
-   </blockquote>
-   </details>
+  <p class="paper-title">
+      History written by the Loser: Centralization of Confederate Narratives in Southern History Textbooks
+    </a>
+  </p>
+
+ <p class="paper-meta">
+    <em>(with Pedro Aldighieri)</em> &nbsp;<span class="paper-status">(job market paper)</span>
+  </p>
+  
+  <p class="paper-abstract">
+    This paper examines how Southern states exploited centralization of textbook adoption lists to influence narratives in American history textbooks between 1870 and 1930. We employ large language models to  measure pro-Southern slant on a novel dataset of 405 editions of middle-school history textbooks. Leveraging variation in the timing of state adoption laws, we find that state-level consolidation led to 21 p.p. more pro-Confederate coverage of the Civil War. This reflected in more favorable portrayals of the Old South and Confederate apologetics in war descriptions. We show that adoption laws reshaped the publishing industry by enabling new Southern publishers to enter the market and pushing big established Northern publishers to launch new titles with more pro-Southern content. Exploiting variation in the timing of adoption laws, we show that Southern men from cohorts exposed to these textbooks were more likely to marry South-born women and to support KKK and lynching.
+  </p>
+
+  <ul>
+    <li><strong>Conference presentations:</strong> The 1st ASREC Thematic Workshop, CEPR Applied Micro-Economic History Workshop, 11th Monash-Paris-Warwick-Zurich-CEPR Text-As-Data Workshop, The Doctorissimes conference, FRESH workshop Berlin, European Association of Young Economists Annual Meeting, LSE SPEECH seminar, Computational Economic History Workshop in Vienna, SIOE 2026 conference, VII Job Market Bootcamp, Zurich Workshop in AI & Applied Economics 2026 (scheduled), Methodological Advances in Quantitative Economic History workshop (scheduled) </li>
+   <li><strong>Internal talks:</strong> PSE GPET seminar, PSE Applied Economics Lunch seminar</li>
+  </ul>
+
+</div>
+   
+
+#######
 
  <div class="paper">
 
