@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 
-
 ### Working papers
 
  <div class="paper">
@@ -58,8 +57,3 @@ history lunch</li>
 
 </div>
    
-
-
-
-
-  
