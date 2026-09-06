@@ -23,12 +23,16 @@ author_profile: false
   }
 </style>
 
-
-![Georgia](https://vitaliaeliseeva.github.io/images/collage_georgia.png){: style="max-width:80%"}
-
-![India](https://vitaliaeliseeva.github.io/images/collage_india.png){: style="max-width:80%"}
-
-
+.ig-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 4px;
+}
+.ig-grid img {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+}
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-MCK3K2357M"></script>
