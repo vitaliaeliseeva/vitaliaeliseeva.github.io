@@ -4,7 +4,6 @@ title: "Photography"
 permalink: /photography/
 author_profile: false
 ---
-
 <style>
   .archive {
     float: none;
