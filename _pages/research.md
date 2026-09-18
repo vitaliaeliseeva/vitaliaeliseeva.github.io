@@ -85,6 +85,17 @@ author_profile: false
   </p>
 
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-MCK3K2357M"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-MCK3K2357M');
+</script>
+
+
  
   <p class="paper-abstract">
     Using the 2022 ban on Russian state television in Estonia and Latvia,
