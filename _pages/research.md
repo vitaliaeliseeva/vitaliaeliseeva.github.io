@@ -75,49 +75,33 @@ author_profile: false
 <div style="margin-bottom:2rem;">
 
   
-  <p style="font-size:1em; line-height:1.3; font-weight:400; margin:0 0 .35em 0;">
-    The Political Effects of Russian TV Propaganda in the Baltics
-  </p>
-  
-  <p style="margin:0 0 .8em 0;">
-    <em>(with Gisli Gylfason and Ekaterina Zhuravskaya)</em> 
-  </p>
+<ul style="list-style:disc; padding-left:1.2em; margin:0;">
 
-  <p class="paper-abstract">
-    Using the 2022 ban on Russian state television in Estonia and Latvia,
-this project studies how losing access to propaganda affects voting
-behaviour.
-  </p>
+  <li style="margin-bottom:1.2em;">
+    The Political Effects of Russian TV Propaganda in the Baltics<br>
+    <em>(with Gisli Gylfason and Ekaterina Zhuravskaya)</em>
+    <span class="paper-abstract" style="display:block; margin-top:.4em;">
+      Using the 2022 ban on Russian state television in Estonia and Latvia, this project studies how losing access to propaganda affects voting behaviour.
+    </span>
+  </li>
 
+  <li style="margin-bottom:1.2em;">
+    Area- and Population-Based Geographic Crosswalks for USSR Regions, 1897–2010<br>
+    <em>(with Natalya Naumenko)</em>
+    <span class="paper-abstract" style="display:block; margin-top:.4em;">
+      Administrative boundaries in the former Soviet Union changed frequently between 1897 and 2010, so regional data are not comparable over time. We construct area- and population-based crosswalks that make them comparable.
+    </span>
+  </li>
 
+  <li style="margin-bottom:1.2em;">
+    The Political Economy of Russian Military Mobilization<br>
+    <em>(with Anastasiia Arbuzova and Joseph Enguehard)</em>
+    <span class="paper-abstract" style="display:block; margin-top:.4em;">
+      This project studies the local economic effects of wartime transfers, the enlistment bonuses paid to contract recruits and the death gratuities paid to their families, measuring local activity with satellite data.
+    </span>
+  </li>
 
-  <p style="font-size:1em; line-height:1.3; font-weight:400; margin:0 0 .35em 0;">
-     Area- and Population-Based Geographic Crosswalks for USSR Regions, 1897–2010
-  </p>
-  
-  <p style="margin:0 0 .8em 0;">
-    <em>(with Natalya Naumenko)</em> 
-  </p>
-
-  <p class="paper-abstract">
-    Soviet administrative boundaries were redrawn repeatedly between 1897 and 2010, which makes censuses and regional statistics difficult to compare over time. Building crosswalks between these units opens a century of Soviet and post-Soviet regional data to economists.
-  </p>
-
-
-  <p style="font-size:1em; line-height:1.3; font-weight:400; margin:0 0 .35em 0;">
-     The Political Economy of Russian Military Mobilization
-  </p>
-  
-  <p style="margin:0 0 .8em 0;">
-    <em>(with Anastasiia Arbuzova and Joseph Enguehard)</em> 
-  </p>
-
-  <p class="paper-abstract">
-    This project studies the local economic effects of wartime transfers, the enlistment bonuses paid to contract recruits and the death gratuities paid to their families, measuring local activity with satellite data.
-  </p>
-
-
-  
+</ul>
 
 
 
