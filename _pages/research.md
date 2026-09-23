@@ -41,7 +41,7 @@ author_profile: false
 
   
   <ul style="font-size:0.9em;">
-    <li><strong>Conference presentations:</strong> The 1st ASREC Thematic Workshop, CEPR Applied Micro-Economic History Workshop, 11th Monash-Paris-Warwick-Zurich-CEPR Text-As-Data Workshop, The Doctorissimes conference, FRESH workshop Berlin, European Association of Young Economists Annual Meeting, Computational Economic History Workshop in Vienna, SIOE 2026 conference, VII Job Market Bootcamp, Zurich Workshop in AI &amp; Applied Economics 2026 <em>(scheduled)</em>, Methodological Advances in Quantitative Economic History workshop <em>(scheduled)</em></li>
+    <li><strong>Conference presentations:</strong> The 1st ASREC Thematic Workshop, CEPR Applied Micro-Economic History Workshop, 11th Monash-Paris-Warwick-Zurich-CEPR Text-As-Data Workshop, The Doctorissimes conference, FRESH workshop Berlin, European Association of Young Economists Annual Meeting, Computational Economic History Workshop in Vienna, SIOE 2026 conference, VII Job Market Bootcamp, Zurich Workshop in AI &amp; Applied Economics 2026, Methodological Advances in Quantitative Economic History workshop <em>(scheduled)</em></li>
     <li><strong>Invited talks:</strong> LSE SPEECH seminar</li>
     <li><strong>Internal talks:</strong> PSE GPET seminar, PSE Applied Economics Lunch seminar</li>
   </ul>
