@@ -24,9 +24,11 @@ author_profile: false
 
 
 
-  <p style="font-size:1.25em; line-height:1.3; font-weight:400; margin:0 0 .35em 0;">
+<p style="font-size:1.25em; line-height:1.3; font-weight:400; margin:0 0 .35em 0;">
+  <a href="https://www.dropbox.com/scl/fi/rmtlr3x1md66mz24wctqe/eliseeva_jmp.pdf?rlkey=4fpbwjsr6jqft6ymuvwb69ztu&dl=0" target="_blank" rel="noopener">
     History written by the Loser: Centralization and Confederate Narratives in Southern Textbooks
-  </p>
+  </a>
+</p>
 
   
   <p style="margin:0 0 .8em 0;">
