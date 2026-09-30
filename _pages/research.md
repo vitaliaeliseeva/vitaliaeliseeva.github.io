@@ -53,7 +53,7 @@ author_profile: false
 <h2 style="font-size:1.5em; font-weight:600; letter-spacing:.01em; margin:1.5rem 0 1.6rem 0; padding:.45em 0; border-top:1px solid #d8d8d8; border-bottom:1px solid #d8d8d8;">Working papers</h2>
 
   <p style="font-size:1.25em; line-height:1.3; font-weight:400; margin:0 0 .35em 0;">
-    <a href="https://www.dropbox.com/scl/fi/n8py72n762g3lbjfw3ss0/eliseeva_male_scarcity.pdf?rlkey=i5as07ss66kseutfkgyqmzkke&amp;raw=1" target="_blank" rel="noopener">
+    <a href="https://www.dropbox.com/scl/fi/r37fq4tfoqiqt2zht02e1/eliseeva_male_scarcity.pdf?rlkey=ev9nym3h26yvsit6hmydpcqeu&dl=0" target="_blank" rel="noopener">
       Failing to forge the New Soviet Woman: Long-term effect of WW2-induced male scarcity on family formation
     </a>
   </p>
