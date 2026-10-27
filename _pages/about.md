@@ -33,11 +33,9 @@ redirect_from:
   }
 </style>
 
-I am an Economics PhD candidate at the Paris School of Economics supervised by Ekaterina Zhuravskaya and Hillel Rapoport. I am an applied microeconomist with research interests in economic history and political economy. <strong>I am on the 2026–27 economics job market.</strong>
+I am an Economics PhD candidate at the Paris School of Economics supervised by Ekaterina Zhuravskaya and Hillel Rapoport. I am an applied microeconomist with research interests in economic history and political economy. In 2027, I will join University of Oxford as a Nuffield Postdoctoral Research Fellow.
 
 My job market paper studies who captures the history curriculum in schools under centralization of textbook choice. More broadly, I study how social norms pass between generations and how states try to shape them.
-
-In 2024-25, I visited Scott Gehlbach at the University of Chicago’s Harris School of Public Policy.
 
 
 <p>My CV is <a href="https://www.dropbox.com/scl/fi/i5w8up8i0jt5tlkbuk3dz/eliseeva_cv.pdf?rlkey=59qj2vek6c3xi590z0o8nwnqu&amp;raw=1" target="_blank" rel="noopener">here</a>.</p>
